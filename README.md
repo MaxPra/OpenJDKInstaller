@@ -2,6 +2,3 @@
 Installs the OpenJDK-Zipfile
 
 With the download you agree all risks of this program!
-
-# Bugs:
-No bugs found so far!
