@@ -1,0 +1,10 @@
+C:\Users\prage\OneDrive\Dokumente\C#\OpenJDKInstaller\bin\Debug\OpenJDKInstaller.exe.config
+C:\Users\prage\OneDrive\Dokumente\C#\OpenJDKInstaller\bin\Debug\OpenJDKInstaller.exe
+C:\Users\prage\OneDrive\Dokumente\C#\OpenJDKInstaller\bin\Debug\OpenJDKInstaller.pdb
+C:\Users\prage\OneDrive\Dokumente\C#\OpenJDKInstaller\obj\Debug\OpenJDKInstaller.csprojAssemblyReference.cache
+C:\Users\prage\OneDrive\Dokumente\C#\OpenJDKInstaller\obj\Debug\OpenJDKInstaller.Form1.resources
+C:\Users\prage\OneDrive\Dokumente\C#\OpenJDKInstaller\obj\Debug\OpenJDKInstaller.Properties.Resources.resources
+C:\Users\prage\OneDrive\Dokumente\C#\OpenJDKInstaller\obj\Debug\OpenJDKInstaller.csproj.GenerateResource.cache
+C:\Users\prage\OneDrive\Dokumente\C#\OpenJDKInstaller\obj\Debug\OpenJDKInstaller.csproj.CoreCompileInputs.cache
+C:\Users\prage\OneDrive\Dokumente\C#\OpenJDKInstaller\obj\Debug\OpenJDKInstaller.exe
+C:\Users\prage\OneDrive\Dokumente\C#\OpenJDKInstaller\obj\Debug\OpenJDKInstaller.pdb
