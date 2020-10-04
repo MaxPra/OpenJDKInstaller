@@ -11,6 +11,7 @@ Download the portable version [here](https://github.com/MaxPra/OpenJDKInstaller/
 - If there is a warning, please just klick on "Next", it's because the program can't find the icon!
 
 **----Important----**
+
 With the download you agree all risks of this program!
 
 
