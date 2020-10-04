@@ -9,4 +9,4 @@ Download the portable version [here](https://github.com/MaxPra/OpenJDKInstaller/
 With the download you agree all risks of this program!
 
 
-Icons by icons8
+**Icons by icons8**
