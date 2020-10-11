@@ -1,7 +1,7 @@
 # OpenJDKInstaller Version 1.0
 Installs the OpenJDK-Zipfile
 
-Download the latest installer for the program in the "Releases"-section or click [here](https://github.com/MaxPra/OpenJDKInstaller/releases/download/1.0/OpenJDKInstaller_Setup.exe)
+Download the latest installer for the program in the "Releases"-section or click [here](https://github.com/MaxPra/OpenJDKInstaller/releases/download/OpenJDKInstallerV1/OpenJDKInstaller_Setup.exe)
 
 **It's important, that you start the application as an administrator! Because the app is dealing with environmentvariables.**
 
